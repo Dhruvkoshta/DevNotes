@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "c0d6d0324b6ef2ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe1a4669b54918b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745ca229a0736db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory Management in C"
+            }
+          },
+          {
+            "id": "8710433719c3e0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxy Server in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy Server in C"
+            }
+          },
+          {
+            "id": "ea65afc32f932122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxy Server in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy Server in C"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bde2ead6ab36aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3decacc600ccb13c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81c09c54ffdfee8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "569bfdc7f56ef145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f50d76403a315e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50260543823242
+  },
+  "right": {
+    "id": "4848f32cd88e486b",
+    "type": "split",
+    "children": [
+      {
+        "id": "396aa1bb0d226e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b55629d6957deb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Memory Management in C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Memory Management in C"
+            }
+          },
+          {
+            "id": "f46775b52fe7d30c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Memory Management in C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Memory Management in C"
+            }
+          },
+          {
+            "id": "4ffe5c243ccc62ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b05db7dfdd30ed8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Memory Management in C.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Memory Management in C"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e81c09c54ffdfee8",
+  "lastOpenFiles": [
+    "Untitled",
+    "Pointers in C.md",
+    "Pasted image 20250722231049.png",
+    "Pasted image 20250722230727.png",
+    "Memory Management in C.md",
+    "Proxy Server in C.md",
+    "Pasted image 20250722230943.png",
+    "Pasted image 20250722230924.png",
+    "Pasted image 20250722230831.png",
+    "Welcome.md"
+  ]
+}
