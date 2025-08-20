@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe10f162b7148cb",
+        "id": "e5cdb15234768532",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6570abdb0e760b",
+            "id": "56e1b0820f74f808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "991-CLANG/Proxy Server in C.md",
+                "file": "404-BACKEND/HTTP Protocol🌐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy Server in C"
+              "title": "HTTP Protocol🌐"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 260.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "486d53ecb41197d0",
@@ -181,49 +182,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d6570abdb0e760b",
+  "active": "56e1b0820f74f808",
   "lastOpenFiles": [
-    "991-CLANG/Pointers in C.md",
+    "404-BACKEND/1.INDEX.md",
+    "404-BACKEND/HTTP Protocol🌐.md",
+    "991-CLANG/DFS.md",
+    "Untitled.md",
+    "404-BACKEND",
+    "991-CLANG/BFS.md",
+    "991-CLANG/1. Index.md",
+    "991-CLANG/imgs/Pasted image 20250817174830.png",
+    "101-ADVENT OF CODE/1.INDEX.md",
+    "101-ADVENT OF CODE/2023/Day 10.md",
+    "101-ADVENT OF CODE/2023/Day 8.md",
+    "101-ADVENT OF CODE/2023/Day 7.md",
+    "101-ADVENT OF CODE/2023/Day 6.md",
+    "101-ADVENT OF CODE/2023/Day 5.md",
+    "101-ADVENT OF CODE/2023/Day 4.md",
+    "101-ADVENT OF CODE/2023/Day 2.md",
+    "101-ADVENT OF CODE/2023/Day 1.md",
     "991-CLANG/File IO and Strings.md",
-    "101-ADVENT OF CODE/2023/1.md",
+    "991-CLANG/imgs/Pasted image 20250722230727.png",
+    "991-CLANG/imgs/Pasted image 20250722231049.png",
+    "991-CLANG/imgs/Pasted image 20250722230943.png",
+    "991-CLANG/imgs/Pasted image 20250722230831.png",
+    "991-CLANG/Proxy Server in C.md",
+    "991-CLANG/imgs",
+    "991-CLANG/Pointers in C.md",
     "200-NEXT/ProjectLearnings/withErrorHandling as a middleware for server functions.md",
     "200-NEXT/ProjectLearnings/Middleware.md",
     "200-NEXT/Next-Docs.md",
     "501-SQL-ORM/PostgresSQL.md",
     "501-SQL-ORM/Pasted image 20250726191832.png",
-    "991-CLANG/1. Index.md",
-    "Untitled",
     "501-SQL-ORM/1. INDEX.md",
     "991-CLANG/Memory Management in C.md",
-    "991-CLANG/Proxy Server in C.md",
     "000-INDEX/Untitled.md",
     "501-SQL-ORM",
     "IDEAS.canvas",
     "101-ADVENT OF CODE/2023",
     "101-ADVENT OF CODE",
     "991-CLANG/Make File.md",
-    "readme.md",
-    "991-CLANG/Pasted image 20250722230727.png",
-    "991-CLANG/Pasted image 20250722230831.png",
-    "991-CLANG/Pasted image 20250722230943.png",
-    "991-CLANG/Pasted image 20250722231049.png",
     "991-CLANG/Pasted image 20250722230924.png",
-    "991-CLANG/Data Types.md",
-    "420-Expense/Money.md",
-    "201-ELECTRONICS/Python LAB.md",
     "991-CLANG",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "200-NEXT/ProjectLearnings/Index.md",
     "201-ELECTRONICS",
-    "activity.md",
     "200-NEXT/ProjectLearnings",
-    "420-Expense/Untitled.md",
     "Recording 20250509000858.m4a",
-    "2025-05-09.md",
-    "420-Expense",
-    "000-INDEX",
-    "Welcome.md",
-    "create a link.md"
+    "420-Expense"
   ]
 }
