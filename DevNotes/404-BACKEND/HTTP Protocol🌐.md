@@ -15,7 +15,7 @@
 
 * **HTTP 1.1**: A significant improvement. It introduced the concept of persistent connections (`Keep-Alive`), allowing a single TCP connection to be reused for multiple requests. This reduced latency and improved performance. It also added features like chunked transfer encoding and better caching mechanisms.
 
-* **HTTP 2.0**: Focused on improving performance. It introduced multiplexing, which allows multiple requests and responses to be sent concurrently over a single TCP connection. Other key features include binary framing (for more efficient parsing), header compression (to reduce overhead), and server push (allowing the server to send resources to the client before they are requested).
+* **HTTP 2.0**: Focused on improving performance. It introduced multiplexing, which allows multiple requests and responses to be sent concurrently over a single TCP connection.
 
 * **HTTP 3.0**: The latest version, built on the QUIC protocol which uses UDP instead of TCP. This further improves performance by reducing connection establishment time and handling packet loss more effectively.
 
@@ -23,19 +23,19 @@
 
 * **Request Message**: This is the message sent from the client to the server. It consists of:
 
-* A start-line with the HTTP method, the requested URL, and the HTTP version.
-
-* Headers, which are key-value pairs providing metadata about the request.
-
-* An optional body, which contains data being sent to the server (e.g., in a POST request).
+	* A start-line with the HTTP method, the requested URL, and the HTTP version.
+	
+	* Headers, which are key-value pairs providing metadata about the request.
+	
+	* An optional body, which contains data being sent to the server (e.g., in a POST request).
 
 * **Response Message**: This is the message sent from the server to the client. It consists of:
 
-* A status-line with the HTTP version, a status code, and a status message.
-
-* Headers, which provide metadata about the response.
-
-* An optional body, which contains the requested resource.
+	* A status-line with the HTTP version, a status code, and a status message.
+	
+	* Headers, which provide metadata about the response.
+	
+	* An optional body, which contains the requested resource.
 
 **4. HTTP Headers**
 
@@ -51,7 +51,7 @@
 
 * **Security Headers**: Used to enhance security (e.g., `Content-Security-Policy`, `Strict-Transport-Security`).
 
-**5. HTTP Methods (Verbs)**
+**5. HTTP Methods
 
 * **Purpose**: These verbs define the action that the client wants to perform on a resource.
 
@@ -69,9 +69,9 @@
 
 * **Idempotent vs. Non-Idempotent**:
 
-* **Idempotent** methods produce the same result if called multiple times (e.g., GET, PUT, DELETE).
-
-* **Non-idempotent** methods may have different effects on each call (e.g., POST).
+	* **Idempotent** methods produce the same result if called multiple times (e.g., GET, PUT, DELETE).
+	
+	* **Non-idempotent** methods may have different effects on each call (e.g., POST).
 
 * **OPTIONS**: Used by the client to determine the communication options for a target resource. This is often used in CORS pre-flight requests.
 
