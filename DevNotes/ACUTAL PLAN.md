@@ -1,0 +1,7 @@
+- [ ] 3 Real world Scalable Crazy Projects
+	- [ ]  High-Performance Order Execution and Management System
+	- [ ] Video to gif 
+	- [ ] Study On flash card and ai tutor
+	- [ ] Email protocol & client
+- [ ] DSA of only important topics (***1 TOPIC DAILY***)
+- [ ] Cohort for **DEVOPS**
