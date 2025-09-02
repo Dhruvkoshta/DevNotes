@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd2f8d19af13fb9",
+        "id": "4aff5f776c7fcae2",
         "type": "tabs",
         "children": [
           {
-            "id": "ea12c897d7ba9672",
+            "id": "bb8db46318c0c5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "991-CLANG/1. Index.md",
+                "file": "101-ADVENT OF CODE/2023/Day 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Index"
-            }
-          },
-          {
-            "id": "7e185185cb278d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACUTAL PLAN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACUTAL PLAN"
+              "title": "Day 13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#an",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324,
-    "collapsed": true
+    "width": 260.5026054382324
   },
   "right": {
     "id": "486d53ecb41197d0",
@@ -199,12 +182,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e185185cb278d17",
+  "active": "307d095c992342e5",
   "lastOpenFiles": [
+    "101-ADVENT OF CODE/2023/Day 13.md",
+    "000-INDEX/INDEX.md",
+    "IDEAS.canvas",
+    "200-NEXT/ProjectLearnings/Index.md",
+    "200-NEXT/Next-Docs.md",
+    "501-DB/1. INDEX.md",
+    "501-DB/REDIS.md",
+    "404-BACKEND/1.INDEX.md",
+    "Untitled.base",
     "991-CLANG/1. Index.md",
     "ACUTAL PLAN.md",
     "404-BACKEND/HTTP Protocol🌐.md",
-    "404-BACKEND/1.INDEX.md",
     "991-CLANG/DFS.md",
     "404-BACKEND",
     "991-CLANG/BFS.md",
@@ -228,24 +219,16 @@
     "991-CLANG/Pointers in C.md",
     "200-NEXT/ProjectLearnings/withErrorHandling as a middleware for server functions.md",
     "200-NEXT/ProjectLearnings/Middleware.md",
-    "200-NEXT/Next-Docs.md",
-    "501-SQL-ORM/PostgresSQL.md",
-    "501-SQL-ORM/Pasted image 20250726191832.png",
-    "501-SQL-ORM/1. INDEX.md",
-    "991-CLANG/Memory Management in C.md",
-    "000-INDEX/Untitled.md",
-    "501-SQL-ORM",
-    "IDEAS.canvas",
+    "501-DB/Pasted image 20250726191832.png",
+    "501-DB",
     "101-ADVENT OF CODE/2023",
     "101-ADVENT OF CODE",
-    "991-CLANG/Make File.md",
     "991-CLANG/Pasted image 20250722230924.png",
     "991-CLANG",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "201-ELECTRONICS",
     "200-NEXT/ProjectLearnings",
-    "Recording 20250509000858.m4a",
-    "420-Expense"
+    "Recording 20250509000858.m4a"
   ]
 }

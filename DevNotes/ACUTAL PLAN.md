@@ -3,5 +3,6 @@
 	- [ ] Video to gif 
 	- [ ] Study On flash card and ai tutor
 	- [ ] Email protocol & client
+	- [ ] NoobDB
 - [ ] DSA of only important topics (***1 TOPIC DAILY***)
 - [ ] Cohort for **DEVOPS**
