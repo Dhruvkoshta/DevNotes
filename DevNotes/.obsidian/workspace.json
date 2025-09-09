@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4aff5f776c7fcae2",
+        "id": "eb7ec4a9ff491c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "bb8db46318c0c5db",
+            "id": "56b906d11cfcb231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101-ADVENT OF CODE/2023/Day 13.md",
+                "file": "991-CLANG/Dijkstra Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 13"
+              "title": "Dijkstra Algorithm"
+            }
+          },
+          {
+            "id": "38943f5e50638904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "991-CLANG/BFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5026054382324
+    "width": 203.5
   },
   "right": {
     "id": "486d53ecb41197d0",
@@ -182,43 +197,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "307d095c992342e5",
+  "active": "38943f5e50638904",
   "lastOpenFiles": [
-    "101-ADVENT OF CODE/2023/Day 13.md",
-    "000-INDEX/INDEX.md",
-    "IDEAS.canvas",
-    "200-NEXT/ProjectLearnings/Index.md",
-    "200-NEXT/Next-Docs.md",
-    "501-DB/1. INDEX.md",
-    "501-DB/REDIS.md",
-    "404-BACKEND/1.INDEX.md",
-    "Untitled.base",
-    "991-CLANG/1. Index.md",
-    "ACUTAL PLAN.md",
-    "404-BACKEND/HTTP Protocol🌐.md",
     "991-CLANG/DFS.md",
-    "404-BACKEND",
-    "991-CLANG/BFS.md",
-    "991-CLANG/imgs/Pasted image 20250817174830.png",
-    "101-ADVENT OF CODE/1.INDEX.md",
-    "101-ADVENT OF CODE/2023/Day 10.md",
-    "101-ADVENT OF CODE/2023/Day 8.md",
-    "101-ADVENT OF CODE/2023/Day 7.md",
-    "101-ADVENT OF CODE/2023/Day 6.md",
-    "101-ADVENT OF CODE/2023/Day 5.md",
-    "101-ADVENT OF CODE/2023/Day 4.md",
-    "101-ADVENT OF CODE/2023/Day 2.md",
-    "101-ADVENT OF CODE/2023/Day 1.md",
+    "991-CLANG/Dijkstra Algorithm.md",
     "991-CLANG/File IO and Strings.md",
+    "991-CLANG/Make File.md",
+    "991-CLANG/Memory Management in C.md",
+    "991-CLANG/Pointers in C.md",
+    "991-CLANG/Priority Queue.md",
+    "991-CLANG/Proxy Server in C.md",
+    "101-ADVENT OF CODE/2023/Day 17.md",
+    "6.md",
+    "PORTFOLIO.md",
+    "Untitled Kanban.md",
+    "ACUTAL PLAN.md",
+    "991-CLANG/1.CLANG.md",
+    "000-INDEX/INDEX.md",
+    "Day 12.md",
+    "200-NEXT/ProjectLearnings/1.NEXT.md",
+    "404-BACKEND/1.BACKEND.md",
+    "501-DB/Drizzle.md",
+    "IDEAS.canvas",
+    "501-DB/1.DB.md",
+    "Untitled.canvas",
+    "101-ADVENT OF CODE/1.AOC.md",
+    "991-CLANG/BFS.md",
+    "991-CLANG/Data Types.md",
+    "101-ADVENT OF CODE/2023/Day 13.md",
+    "200-NEXT/Next-Docs.md",
+    "501-DB/REDIS.md",
+    "Untitled.base",
+    "404-BACKEND",
+    "991-CLANG/imgs/Pasted image 20250817174830.png",
     "991-CLANG/imgs/Pasted image 20250722230727.png",
     "991-CLANG/imgs/Pasted image 20250722231049.png",
     "991-CLANG/imgs/Pasted image 20250722230943.png",
     "991-CLANG/imgs/Pasted image 20250722230831.png",
-    "991-CLANG/Proxy Server in C.md",
     "991-CLANG/imgs",
-    "991-CLANG/Pointers in C.md",
-    "200-NEXT/ProjectLearnings/withErrorHandling as a middleware for server functions.md",
-    "200-NEXT/ProjectLearnings/Middleware.md",
     "501-DB/Pasted image 20250726191832.png",
     "501-DB",
     "101-ADVENT OF CODE/2023",
@@ -226,7 +242,6 @@
     "991-CLANG/Pasted image 20250722230924.png",
     "991-CLANG",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "201-ELECTRONICS",
     "200-NEXT/ProjectLearnings",
     "Recording 20250509000858.m4a"
