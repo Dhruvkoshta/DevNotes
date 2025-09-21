@@ -6,3 +6,45 @@
 	- [ ] NoobDB
 - [ ] DSA of only important topics (***1 TOPIC DAILY***)
 - [ ] Cohort for **DEVOPS**
+
+### IMPLIMENTATION - ALGORITHMS
+- [ ] Binary search
+- [ ]  KMP (string search, not call to action)
+- [ ] Quick Sort
+- [ ] Merge Sort
+- [ ] Fast Fourier Transform (FFT)
+- [ ] Depth-First Search (DFS)
+- [ ] Breadth-First Search (BFS)
+- [ ] Topological Sort 
+- [ ] Lowest Common Ancestor (LCA)
+- [ ] A* Search
+- [ ] Dijkstra Shortest Path
+- [ ] Minimum Spanning Tree (Prim or Kruskal)
+- [ ] Binary Power
+- [ ] Knapsack Problem
+- [ ] Longest Common Subsequence (LCS)
+- [ ] Greatest Common Divisor (GCD)
+
+### DATA STRUCTURES
+- [ ] Linked List 
+- [ ] Dynamic Array 
+- [ ] Stack 
+- [ ] Ring-buffer Queue 
+- [ ] Deque 
+- [ ] Binary Heap 
+- [ ] Binomial Heap 
+- [ ] HashMap with Open Addressing 
+- [ ] HashMap with Separate Chaining 
+- [ ] Binary Search Tree 
+- [ ] AVL Tree 
+- [ ] Red-Black Tree 
+- [ ] B-Tree 
+- [ ] Splay Tree 
+- [ ] Treap 
+- [ ] Segment Tree/Range Tree 
+- [ ] Sparse Table 
+- [ ] Heavy-Light Decomposition 
+- [ ] Link-Cut Tree
+- [ ] Disjoint-Set Union (DSU) 
+- [ ] Suffix Array 
+- [ ] Suffix Tree
