@@ -1,4 +1,0 @@
-- ### Website Athurr
-- ### Skills and tech https://farissi-hamza.netlify.app/
-- ### Loading animation https://www.onyedika.xyz/
-- 

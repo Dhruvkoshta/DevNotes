@@ -1,4 +1,5 @@
 - [ ] 3 Real world Scalable Crazy Projects
+	- [ ] C++ Game project
 	- [ ]  High-Performance Order Execution and Management System
 	- [ ] Video to gif 
 	- [ ] Study On flash card and ai tutor
