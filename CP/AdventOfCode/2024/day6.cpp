@@ -12,8 +12,11 @@ int main() {
   }
 
   std::cout << content << std::endl;
-  std::vector<char> GRID;
+  std::vector<std::string> GRID;
+
   for (int i = 0; i < content.size(); i++) {
-    GRID.push_back(content[i]);
+    for (int j = 0; j < content.size(); j++) {
+      GRID.push_back(content[i][j]);
+    }
   }
 }
