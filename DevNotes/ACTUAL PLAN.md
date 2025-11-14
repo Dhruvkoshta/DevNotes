@@ -1,7 +1,13 @@
+### 3 Things:
+	- DSA #1 DS and 1 Question(AOC/Leetcode/YT)
+	- WEBDEV #Complete the Backend Playlist
+	- DEVOPS(SYSTEM DESIGN) #COHORT
+	## 1 Project in a Week
+
+
 - [ ] 3 Real world Scalable Crazy Projects
 	- [ ] C++ Game project
 	- [ ]  High-Performance Order Execution and Management System
-	- [ ] Video to gif 
 	- [ ] Study On flash card and ai tutor
 	- [ ] Email protocol & client
 	- [ ] NoobDB

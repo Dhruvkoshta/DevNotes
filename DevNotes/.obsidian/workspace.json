@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56419b0d0760e550",
+        "id": "700a92250880eea2",
         "type": "tabs",
         "children": [
           {
-            "id": "41e9b593ebd43063",
+            "id": "9e5dcbeb9611cf5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "404-BACKEND/Authentication and Authorization.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Authentication and Authorization"
+              "title": "New tab"
             }
           }
         ]
@@ -182,37 +178,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41e9b593ebd43063",
+  "active": "307d095c992342e5",
   "lastOpenFiles": [
-    "ACUTAL PLAN.md",
-    "404-BACKEND/1.BACKEND.md",
+    "991-CLANG/ALGS",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2025-11-13.md",
+    "404-BACKEND/1. BACKEND.md",
+    "404-BACKEND/Controllers, Services, Repositories, Middlewares.md",
+    "101-ADVENT OF CODE/1.AOC.md",
+    "404-BACKEND/Routing.md",
+    "RESTful Architecture and Best Prac[[REST API DESIGN.md",
+    "RESTful Architecture and Best Practices.md",
+    "404-BACKEND/REST API DESIGN.md",
+    "991-CLANG/1.CLANG.md",
+    "991-CLANG/DS/Linked List.md",
+    "991-CLANG/DS",
+    "404-BACKEND/RateLimiting Implimentation.md",
+    "101-ADVENT OF CODE/2024/Day 7.md",
+    "101-ADVENT OF CODE/2024/Day 6.md",
+    "101-ADVENT OF CODE/2024/Day 4.md",
+    "101-ADVENT OF CODE/2024/Day 3.md",
+    "101-ADVENT OF CODE/2024/Day 2.md",
+    "101-ADVENT OF CODE/2024/Day 1.md",
+    "101-ADVENT OF CODE/2023/Day 2.md",
+    "101-ADVENT OF CODE/2023/Day 1.md",
+    "101-ADVENT OF CODE/2024",
+    "ACTUAL PLAN.md",
     "404-BACKEND/Authentication and Authorization.md",
     "404-BACKEND/OSI Model.md",
     "501-DB/1.DB.md",
     "PORTFOLIO.md",
-    "404-BACKEND/Routing.md",
     "404-BACKEND/HTTP Protocol🌐.md",
-    "991-CLANG/BFS.md",
-    "991-CLANG/DFS.md",
-    "991-CLANG/Dijkstra Algorithm.md",
-    "991-CLANG/File IO and Strings.md",
-    "991-CLANG/Make File.md",
-    "991-CLANG/Memory Management in C.md",
-    "991-CLANG/Pointers in C.md",
-    "991-CLANG/Priority Queue.md",
-    "991-CLANG/Proxy Server in C.md",
-    "101-ADVENT OF CODE/2023/Day 17.md",
-    "6.md",
-    "Untitled Kanban.md",
-    "991-CLANG/1.CLANG.md",
-    "000-INDEX/INDEX.md",
-    "Day 12.md",
-    "200-NEXT/ProjectLearnings/1.NEXT.md",
-    "501-DB/Drizzle.md",
     "IDEAS.canvas",
-    "Untitled.canvas",
-    "101-ADVENT OF CODE/1.AOC.md",
-    "Untitled.base",
     "404-BACKEND",
     "991-CLANG/imgs/Pasted image 20250817174830.png",
     "991-CLANG/imgs/Pasted image 20250722230727.png",
@@ -227,8 +225,6 @@
     "991-CLANG/Pasted image 20250722230924.png",
     "991-CLANG",
     "Untitled 1.canvas",
-    "201-ELECTRONICS",
-    "200-NEXT/ProjectLearnings",
-    "Recording 20250509000858.m4a"
+    "201-ELECTRONICS"
   ]
 }
